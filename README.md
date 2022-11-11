@@ -1,6 +1,4 @@
 
-
--- <!DOCTYPE HTML>
 <HTML>
 
 <HEAD>
